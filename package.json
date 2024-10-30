@@ -1,0 +1,19 @@
+{
+  "name": "musicisserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^3.84.0"
+  },
+  "dependencies": {
+    "supabase": "^1.207.9"
+  }
+}
