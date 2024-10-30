@@ -1,5 +1,5 @@
 // src/templates/basic/index.js
-import { createClient } from "@supabase/supabase-js";
+import { createClient } from "./supabase/supabase-js";
 import renderHtml from "./renderHtml.js";
 var basic_default = {
   async fetch(request, env) {

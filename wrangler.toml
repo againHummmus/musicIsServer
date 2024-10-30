@@ -1,0 +1,4 @@
+name = "musicisserver"
+type = "javascript" # or modules based on your project needs
+main = "index.js" # This is the entry point
+compatibility_date = "2024-10-30" # Update according to your deployment date
